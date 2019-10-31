@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PerguruanTinggi</string>
+    <string name="kampus_name">Nama Kampus</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="alamat">Alamat</string>
+</resources>
